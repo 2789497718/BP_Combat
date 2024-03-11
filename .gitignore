@@ -3,6 +3,12 @@ DerivedDataCache
 Intermediate
 Saved
 Build
+# Ignore IntelliJ IDEA files
+.idea/
+*.iml
+*.iws
+*.ipr
+.vsconfig
 
 .vscode
 .vs
